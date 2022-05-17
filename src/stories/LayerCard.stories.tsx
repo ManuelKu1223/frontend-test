@@ -1,7 +1,7 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { LayerCard } from '../components/LayerCard/layerCard';
-import LayerCardDocPage from './LayerCard.stories.mdx';
+import LayerCardDocPage from './LayerCard.mdx';
 
 export default {
   title: 'Test/LayerCard',
