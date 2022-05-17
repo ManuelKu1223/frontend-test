@@ -1,0 +1,7 @@
+.MuiFormControlLabel-root{
+    margin: 0 !important;
+}
+
+.MuiFormControlLabel-label{
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
